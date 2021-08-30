@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/steam-burger/static/css/main.4c0e6f43.chunk.css",
-    "main.js": "/steam-burger/static/js/main.f63783fd.chunk.js",
-    "main.js.map": "/steam-burger/static/js/main.f63783fd.chunk.js.map",
+    "main.js": "/steam-burger/static/js/main.2ef6c4b7.chunk.js",
+    "main.js.map": "/steam-burger/static/js/main.2ef6c4b7.chunk.js.map",
     "runtime-main.js": "/steam-burger/static/js/runtime-main.c6224145.js",
     "runtime-main.js.map": "/steam-burger/static/js/runtime-main.c6224145.js.map",
     "static/js/2.538927bf.chunk.js": "/steam-burger/static/js/2.538927bf.chunk.js",
     "static/js/2.538927bf.chunk.js.map": "/steam-burger/static/js/2.538927bf.chunk.js.map",
     "index.html": "/steam-burger/index.html",
-    "precache-manifest.601b5d900cab17d9c7bf26f7b5c4186e.js": "/steam-burger/precache-manifest.601b5d900cab17d9c7bf26f7b5c4186e.js",
+    "precache-manifest.e9c56663c00fabd78fa48ad6be890872.js": "/steam-burger/precache-manifest.e9c56663c00fabd78fa48ad6be890872.js",
     "service-worker.js": "/steam-burger/service-worker.js",
     "static/css/main.4c0e6f43.chunk.css.map": "/steam-burger/static/css/main.4c0e6f43.chunk.css.map",
     "static/js/2.538927bf.chunk.js.LICENSE.txt": "/steam-burger/static/js/2.538927bf.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.c6224145.js",
     "static/js/2.538927bf.chunk.js",
     "static/css/main.4c0e6f43.chunk.css",
-    "static/js/main.f63783fd.chunk.js"
+    "static/js/main.2ef6c4b7.chunk.js"
   ]
 }

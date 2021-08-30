@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6f1b92af87eb3b0ad845d819fcef927",
+    "revision": "18202dea19c62ef8c73adf7af11518b0",
     "url": "/steam-burger/index.html"
   },
   {
-    "revision": "2e95ba3a91e0409320f5",
+    "revision": "f3f2a135ab9bebb1cd8b",
     "url": "/steam-burger/static/css/main.4c0e6f43.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steam-burger/static/js/2.538927bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e95ba3a91e0409320f5",
-    "url": "/steam-burger/static/js/main.f63783fd.chunk.js"
+    "revision": "f3f2a135ab9bebb1cd8b",
+    "url": "/steam-burger/static/js/main.2ef6c4b7.chunk.js"
   },
   {
     "revision": "289905d97c170ba0388c",

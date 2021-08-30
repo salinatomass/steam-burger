@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/steam-burger/precache-manifest.601b5d900cab17d9c7bf26f7b5c4186e.js"
+  "/steam-burger/precache-manifest.e9c56663c00fabd78fa48ad6be890872.js"
 );
 
 self.addEventListener('message', (event) => {
